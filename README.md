@@ -1,0 +1,3 @@
+# Conor422.github.io
+
+This is my basic website, I'll update it every so often...
